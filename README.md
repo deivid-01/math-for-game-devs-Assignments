@@ -5,10 +5,10 @@ Math exploration following Math course by Freya https://www.youtube.com/watch?v=
 - Aiming target<br/>
 ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/50857082/190299265-d900ca02-faf4-4576-9ae6-48aa8efcee87.gif)
 
--Dot product <br/>
+- Dot product <br/>
 ![ezgif com-gif-maker (14)](https://user-images.githubusercontent.com/50857082/190299372-32845c92-ced2-4544-9d2e-385570cf4050.gif)
 
--Bouncing Lazer <br/>
+- Bouncing Lazer <br/>
 ![ezgif com-gif-maker (15)](https://user-images.githubusercontent.com/50857082/190299601-e25fb0bb-d61f-4f08-b79d-e76ad4c9e78b.gif)
 
 - Turret Placement alignment <br/>
